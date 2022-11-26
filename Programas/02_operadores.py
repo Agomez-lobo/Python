@@ -28,3 +28,6 @@ print("Soy el número " + str(5))
 
 #Algo útil que podemos hacer con números es algo como
 print(5 + 3 * 5 // 2 ** 3)
+
+#Sin embargo algo que si permite python es
+print("Hola " * 3)
