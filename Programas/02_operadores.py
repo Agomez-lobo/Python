@@ -22,3 +22,6 @@ print(12 // 3)
 #Para concatenar un string y un número por ejemplo.... habría que utilizar una función del sistema como str:
 
 print("Hola a todos " + "y a todas.")
+
+#Lo que si podemos hacer es tipar las variables con funciones del sistema para poder concatenar difere tes tipos de variables
+print("Soy el número " + str(5))
