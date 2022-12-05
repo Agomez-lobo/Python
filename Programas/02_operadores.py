@@ -31,3 +31,42 @@ print(5 + 3 * 5 // 2 ** 3)
 
 #Sin embargo algo que si permite python es
 print("Hola " * 3)
+
+#Operadores comparativos
+"""
+    1.- > mayor que
+    2.- < menor que
+    3.- >= mayor o igual que
+    4. <= menor o igual que
+    5. = igual que
+    6. != distinto de
+"""
+
+print("*************** OPERADORES COMPARATIVOS ****************")
+print("*************** COMPARANDO NUMEROS ****************")
+print(3 > 4)
+print(3 < 4)
+print(3 >= 4)
+print(3 <= 4)
+print(3 == 4)
+print(3 != 4)
+
+#Para la comparación entre cadenas se realiza mediante ordenación alfabética
+print("*************** OPERADORES COMPARATIVOS ****************")
+print("*************** COMPARANDO CADENAS ****************")
+print("Hola" > "Python")
+print("Hola" < "Python")
+print("Hola" >= "Python")
+print("Hola" <= "Python")
+print("Hola" == "Python")
+print("Hola" != "Python")
+
+#Operadores Lógicos
+print("******************* OPERADORES LÓGICOS *********************")
+print(3 > 4 and "Hola" > "Python")
+print(3 > 4 or "Hola" > "Python")
+print(3 < 4 and "Hola" < "Python")
+print(3 < 4 or "Hola" < "Python")
+print(not(3 > 4))
+
+#CABE RECORDAR QUE HAY QUE APRENDERSE O SABER MUY BIEN LA LÓGICA BOOLEANA
