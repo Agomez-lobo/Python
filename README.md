@@ -1,3 +1,5 @@
+##Hola soy Alejandro y esto va a ser un pequeño guía burras para aquellos que se inician en python como yo ;-)
+
 # Python
 Curso de inicio a Python
 
