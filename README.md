@@ -1,9 +1,5 @@
 # Python
-<<<<<<< HEAD
-Curso de inicio a Python. Hola, mi nombre es Alejandro y esto, a parte de ser un pequeño inicio para adentrarse en el lenguaje de programación python, también es el inicio de mi aventura en Github, espero poder ayudar a esta gran comunidad. Un saludo. 😄
-=======
 Curso de inicio a Python. Hola, mi nombre es Alejandro y esto, a parte de ser un pequeño inicio para adentrarse en el lenguaje de programación python, también es el inicio de mi aventura en Github, espero poder ayudar a esta gran comunidad. Un saludo.
->>>>>>> ddc3ebc (2.5)
 
 ### Indice
 - 1.- Variables
