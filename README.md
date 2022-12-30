@@ -8,3 +8,7 @@ Curso de inicio a Python. Hola, mi nombre es Alejandro y esto, a parte de ser un
 - 1.- Variables
 - 2.- Operadores
 - 3.- Strings
+- 4.- Listas
+- 5.- Tuplas
+- 6.- Sets
+- 7.- Diccionarios
