@@ -12,3 +12,4 @@ Curso de inicio a Python. Hola, mi nombre es Alejandro y esto, a parte de ser un
 - 5.- Tuplas
 - 6.- Sets
 - 7.- Diccionarios
+- 8.- Condicionales
