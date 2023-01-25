@@ -18,3 +18,6 @@ Curso de inicio a Python. Hola, mi nombre es Alejandro y esto, a parte de ser un
 - 11.- Clases
 - 12.- Excepciones
 - 13.- Módulos
+
+### Indice nivel intermedio
+- 1.- 
